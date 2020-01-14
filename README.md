@@ -1,10 +1,11 @@
-# TitaniumPhoenix V2
+# Hidden Reloaded - TitaniumPhoenix V2
 
 A beautiful and lightweight web-proxy site built to be easy to use and modify for everyone; for students, by students.
 
-Initial Release Date: 02/11/2019.
+Titanium Release Date: 02/11/2019
+Hidden Development start date
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/phoenix-reborn)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/siuolthepic/phoenix-reborn)
 
 #### Basic info
 
